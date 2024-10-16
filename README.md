@@ -5,7 +5,7 @@
 <p align="left">
 **Email:** [sumonchandrashil@gmail.com](mailto:sumonchandrashil@gmail.com)
 **Phone:** [(+88) 01861857750](tel:+8801861857750)
-**Connect Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/sumon-chandra-shil/)
+**Connect Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/sumon-chandra-shil)
 </p>
 
 ---
