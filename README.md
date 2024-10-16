@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
+![image](https://github.com/user-attachments/assets/fed01e4c-f758-4bbc-a96a-2fbdf0d5a9cd)![image](https://github.com/user-attachments/assets/43cd84a6-e863-49be-bb01-ddac65eaee57)<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
 <h3 align="center">Full Stack Web Developer Skilled in PHP, Laravel, JavaScript, and Modern Frameworks.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -83,6 +83,7 @@
 - **<a href="https://www.coursera.org/account/accomplishments/certificate/2CZMCZZ45SH9" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-4 : Tools of the Trade: Linux and SQL </a>** | **Google** *(August 17, 2024)*
 - **<a href="https://skillshop.exceedlms.com/student/award/5eVSGZWWRHCm8QxfKQjeQ5Sa" target="_blank" rel="noreferrer"> The Fundamentals of Digital Marketing </a>** | **Google** *(June 28, 2020)*
 - **<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AWS/kkE9HyeNcw6rwCRGw_AWS%20APAC_kvQzJaTbJpEcnTbkz_1700070643058_completion_certificate.pdf" target="_blank" rel="noreferrer"> Solutions Architecture Job Simulation </a>** | **AWS** *(November 15, 2023)*
+- **<a href="https://udemy-certificate.s3.amazonaws.com/image/UC-5e6bcae5-91d9-4289-bb9b-ad6bdc7c016e.jpg?v=1612003115000" target="_blank" rel="noreferrer"> Agile Project Management: Agile, Scrum, Kanban & XP </a>** | **Udemy** *(January 30, 2021)*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumonchandrashil&show_icons=true&locale=en&layout=compact" alt="sumonchandrashil" /></p>
 
