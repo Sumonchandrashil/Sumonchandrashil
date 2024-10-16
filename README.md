@@ -77,13 +77,13 @@
 
 ## 🏆 Awards and Certifications
 
-- **<a href="https://www.coursera.org/account/accomplishments/verify/TEM5S76FH2DP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-1 : Foundations of Cybersecurity </a>** | **Google** *(May 12, 2024)*  
-- **<a href="https://www.coursera.org/account/accomplishments/verify/NLKU6FRCQ3DL?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-2 : Play It Safe: Manage Security Risks </a>** | Google *(June 5, 2024)*
-- **<a href="" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-3 : Connect and Protect: Networks and Network Security </a>** | Google *(August 3, 2024)*
-- **<a href="https://www.coursera.org/account/accomplishments/verify/2CZMCZZ45SH9" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-4 : Tools of the Trade: Linux and SQL </a>** | Google *(August 17, 2024)*
+- **<a href="https://www.coursera.org/account/accomplishments/certificate/TEM5S76FH2DP" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-1 : Foundations of Cybersecurity </a>** | **Google** *(May 12, 2024)*  
+- **<a href="https://www.coursera.org/account/accomplishments/certificate/NLKU6FRCQ3DL" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-2 : Play It Safe: Manage Security Risks </a>** | **Google** *(June 5, 2024)*
+- **<a href="https://www.coursera.org/account/accomplishments/certificate/M6KSQMZISZRK" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-3 : Connect and Protect: Networks and Network Security </a>** | **Google** *(August 3, 2024)*
+- **<a href="https://www.coursera.org/account/accomplishments/certificate/2CZMCZZ45SH9" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-4 : Tools of the Trade: Linux and SQL </a>** | **Google** *(August 17, 2024)*
 
-- **The Fundamentals of Digital Marketing** | Google *(June 28, 2020)*  
-- **Solutions Architecture Job Simulation** | AWS *(November 15, 2023)*
+- **The Fundamentals of Digital Marketing** | **Google** *(June 28, 2020)*  
+- **Solutions Architecture Job Simulation** | **AWS** *(November 15, 2023)*
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumonchandrashil&show_icons=true&locale=en&layout=compact" alt="sumonchandrashil" /></p>
 
