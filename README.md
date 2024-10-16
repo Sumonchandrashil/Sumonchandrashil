@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fed01e4c-f758-4bbc-a96a-2fbdf0d5a9cd)![image](https://github.com/user-attachments/assets/43cd84a6-e863-49be-bb01-ddac65eaee57)<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
+<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
 <h3 align="center">Full Stack Web Developer Skilled in PHP, Laravel, JavaScript, and Modern Frameworks.</h3>
 
 <h3 align="left">Connect with me:</h3>
