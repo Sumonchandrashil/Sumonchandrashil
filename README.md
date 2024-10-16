@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
+![image](https://github.com/user-attachments/assets/61ec20f8-40cb-47e0-a9a7-38139a1f4c1d)![image](https://github.com/user-attachments/assets/93bf8316-363d-4c07-bb98-c0f00ea1821c)<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
 <h3 align="center">Full Stack Web Developer Skilled in PHP, Laravel, JavaScript, and Modern Frameworks.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -77,7 +77,7 @@
 
 ## 🏆 Awards and Certifications
 
-- **Foundations of Cybersecurity** | Google *(May 12, 2024)*  
+- **<a href="https://www.coursera.org/account/accomplishments/verify/TEM5S76FH2DP?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course" target="_blank" rel="noreferrer"> Google Cybersecurity Professional Certificate; Course-1 : Foundations of Cybersecurity </a>** | **Google** *(May 12, 2024)*  
 - **Play It Safe: Manage Security Risks** | Google *(June 5, 2024)*  
 - **The Fundamentals of Digital Marketing** | Google *(June 28, 2020)*  
 - **Solutions Architecture Job Simulation** | AWS *(November 15, 2023)*
