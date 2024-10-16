@@ -1,13 +1,11 @@
-![image](https://github.com/user-attachments/assets/1ed0c2a9-dbd2-46df-81db-d719ba0e89a1)![image](https://github.com/user-attachments/assets/ac8ca042-8e40-49a3-a8ba-6ccca8522e2f)<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
+<h1 align="center">Hi 👋, I'm Sumon Chandra Shil</h1>
 <h3 align="center">Full Stack Web Developer Skilled in PHP, Laravel, JavaScript, and Modern Frameworks.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
 **Email:** [sumonchandrashil@gmail.com](mailto:sumonchandrashil@gmail.com)
 **Phone:** [(+88) 01861857750](tel:+8801861857750)
-**Connect Linkedin:** [Linkedin Profile](https://linkedin.com/in/sumon-chandrashil-0907a7a8)
-
+**Connect Linkedin:** [Linkedin Profile](https://www.linkedin.com/in/sumon-chandra-shil/)
 </p>
 
 ---
