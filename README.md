@@ -10,6 +10,21 @@
 
 </p>
 
+<h3 align="left">About Me:</h3>
+<p>
+I am a **Full-Stack Web Developer** with 5 years of experience building dynamic and scalable applications. I have worked extensively with **PHP, Laravel, WordPress, JavaScript, React, Vue**, and various modern web frameworks and tools. My expertise spans both front-end and back-end technologies, ensuring smooth user experiences and efficient performance.  
+
+Driven by a growing passion for **cybersecurity**, I am actively transitioning into the field of **information security**. My goal is to leverage my development background to build secure applications and help safeguard digital environments.  
+
+I bring hands-on skills in **Linux administration, Bash scripting, Python programming**, and **networking principles**, forming a solid foundation for my cybersecurity journey. My key interests include:  
+- **Web Application Security**  
+- **Penetration Testing**  
+- **Network Security**  
+- **Ethical Hacking**  
+
+I am committed to continuous learning, staying updated with the latest trends in cybersecurity tools, practices, and frameworks. I look forward to contributing to the creation of **secure and resilient digital solutions**.
+</p>
+
 ---
 
 ## 🛠 Skills
